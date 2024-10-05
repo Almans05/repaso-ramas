@@ -29,3 +29,9 @@ git add .
 ```sh 
 
 git commit -m "mensaje"
+
+# ver listado de commit en el repo 
+
+```sh 
+
+git log --oneline
